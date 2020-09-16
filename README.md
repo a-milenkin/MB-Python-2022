@@ -8,7 +8,7 @@ So, what exactly are computer and programmer talking about? The answer is algori
 
 In other hand, algorithm is not exactly what you tell to computer. It's abstraction, that describe a logic, that must be done. But there can be others difficulties like work with memory, optimizations and others. It depends from language that you use.
 
-![algorithm_example](algorithm_example.png)
+![algorithm_example](Algorithm_example.png)
 
 Above you see example of simple algorithm written for GCD calculation. But what more important - it consist of blocks, each one have something like command to computer. One by one it perform and calculate them till the end, or till user not stop calculation (for example when computer froze). Programmes on some language just made from such simple blocks (actually they contains a lot of command for operation system and other components) and differences between different language is only in complication of them. For example in C++ to change variable in function you need pass it reference, but in Python it's enough to pass the variable itself. 
 
@@ -26,7 +26,7 @@ And this language one of the best to learn algorithm and understanding the progr
 `print ("Hello world!")` - this code just print on your console window "Hello world!". Simple, doesn't it? But before you can try we should install special IDE (Integrated Development Environment), or simple the editor, that helps you right code.
 
 Generally, there is enough to install interpreter, and then run it in console.
-![interpreter](interpreter.png)
+![interpreter](interpreter.PNG)
 And I know that real true progammers writes codes in notepad and console, but it still more comfortable to use special editor. Some of them can give hints, other (like Jupyter) show work result in a comfortable way. So, for our course we will use Jupyter, because it most common IDE and it will be good if you learn how to use IPhython notebooks, that many people use as results presentation tool.
 
 ## Installing Jupyter
@@ -34,10 +34,10 @@ And I know that real true progammers writes codes in notepad and console, but it
 1. If you use Linux or Mac, just skip this step. If you Windows user than firstly you should install Python itself. For this go to https://www.python.org/downloads/ (or search in Google Python install) and download it. Not foget check the box with "add to PATH". After the installation run `cmd` in start menu. And then write 'python' command. If it's run correct (with version and other), then all is good.
 
 2. In cmd (without running python) or terminal run command  `pip install jupyterlab` and wait till it install successfully. After the installation, let's try to run it with command - `jupyter notebook`. 
-![jupyter](jupyter.png)
+![jupyter](jupyter.PNG)
 There you should see your home folder.
 3. From new menu (at right) you can create folder for workspace, and then enter in it and create notebook. Then enter in it too.
-![notebook](notebook.png)
+![notebook](notebook.PNG)
 
 On screen you see a notebook itself - it's a blocks of some codes, than can work independently or be execute one by one. Right in first block code, that we see before `print ("Hello world!")`. Than run it (like play button on the top pannel) and you will see "Hello world!" below, which means that code was ran and computer computer executed one command algorithm.
 
