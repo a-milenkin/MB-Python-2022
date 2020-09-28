@@ -9,6 +9,8 @@ GitHub can correctly open and display them, so just click, read, copy and run th
 
 ![lesson](images/lesson.PNG)
 
+Additional to it we will send records of online seminars to google.drive [folder](https://drive.google.com/drive/folders/1SwDxcrYsh_1dwjS7AuvwdzIjDlFeq-KW?usp=sharing)
+
 ## Homework and credit
 
 During the course you should make some home tasks in Rosalind and in file named Homework. Inside the file you will find deadlines - this is the time until which you should make a certain part of homework.
