@@ -1,1 +1,7 @@
 .vscode
+/*.txt
+/*.json
+/*.py
+/*.csv
+/*.pickle
+/tmp
