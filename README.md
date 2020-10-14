@@ -9,7 +9,7 @@ GitHub can correctly open and display them, so just click, read, copy and run th
 
 ![lesson](images/lesson.PNG)
 
-Additional to it we will send records of online seminars to google.drive [folder](https://drive.google.com/drive/folders/1SwDxcrYsh_1dwjS7AuvwdzIjDlFeq-KW?usp=sharing)
+**!!!Additional to it we will send records of online seminars to google.drive [folder](https://drive.google.com/drive/folders/1SwDxcrYsh_1dwjS7AuvwdzIjDlFeq-KW?usp=sharing)**
 
 ## Homework and credit
 
